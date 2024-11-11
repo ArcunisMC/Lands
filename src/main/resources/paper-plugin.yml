@@ -1,0 +1,9 @@
+name: Lands
+version: '0.1'
+bootstrapper: com.arcunis.lands.Bootstrapper
+main: com.arcunis.lands.Lands
+api-version: '1.21'
+prefix: Lands
+load: STARTUP
+authors: [ Phant0m2290 ]
+website: https://arcunis.com/plugins/lands
